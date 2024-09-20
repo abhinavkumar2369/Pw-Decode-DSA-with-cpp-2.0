@@ -4,6 +4,9 @@ using namespace std;
 
 // Program to print the sum of all the even digits of a given number
 
+// Sample Input : 4556
+// Output : 10
+
 int main(){
     int n,sum=0;
 
