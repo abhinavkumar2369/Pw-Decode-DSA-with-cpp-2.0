@@ -1,0 +1,5 @@
+The minimum number of function present in any C++ program is -- 1
+
+-----------------------------------------
+    main() function is always present
+-----------------------------------------
