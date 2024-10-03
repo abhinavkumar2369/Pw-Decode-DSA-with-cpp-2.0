@@ -1,0 +1,2 @@
+Yes,
+The same function name can be used for the other functions, as there is the concept of method OverLoading in C++, where different function can be defined with the same function name but the parameter must be different in (data type or number of parameter or both).
