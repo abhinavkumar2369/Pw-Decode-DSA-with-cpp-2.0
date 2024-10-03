@@ -19,4 +19,4 @@
     2. It is necessary for a function to return some value.
 
 7. Explore:
-  Can the same function name be used for different functions without any conflict?
+    Can the same function name be used for different functions without any conflict?
