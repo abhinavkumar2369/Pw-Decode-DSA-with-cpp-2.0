@@ -1,0 +1,8 @@
+int a = 10, b = 20;
+int *ptr;
+*ptr = 5;
+
+
+EXPLAINATION ---
+
+The Program Snippet is not correct because it is trying to assign a value to a pointer before it is initialized.
