@@ -1,0 +1,5 @@
+EXPLANATION ---
+
+• In first iteration: i = n/n = 1
+• Loop stops immediately after first iteration
+• Time Complexity: O(1)
