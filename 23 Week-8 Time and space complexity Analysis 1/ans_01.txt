@@ -1,0 +1,6 @@
+EXPLANATION ---
+
+• In each iteration, i is divided by 2
+• Starting from n, sequence is: n, n/2, n/4, n/8, ... until i becomes 0
+• This is a logarithmic sequence
+• Time Complexity: O(log n)
