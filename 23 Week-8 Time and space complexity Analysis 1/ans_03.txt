@@ -1,0 +1,6 @@
+EXPLANATION ---
+
+• Increments by constant k each time
+• Number of iterations = n/k
+• Since k is constant
+• Time Complexity: O(n)
