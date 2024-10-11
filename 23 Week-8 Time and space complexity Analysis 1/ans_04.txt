@@ -1,0 +1,6 @@
+EXPLANATION ---
+
+• In each iteration, i is multiplied by 2
+• Sequence: 1, 2, 4, 8, ... until reaching n
+• This is a logarithmic sequence
+• Time Complexity: O(log n)
