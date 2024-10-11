@@ -1,0 +1,7 @@
+EXPLANATION ---
+
+• Outer loop runs n times
+• Inner loop runs i times, where i goes from 0 to n-1
+• Total iterations = 0 + 1 + 2 + ... + (n-1)
+• This is arithmetic sequence sum = n(n-1)/2
+• Time Complexity: O(n²)
