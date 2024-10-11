@@ -1,0 +1,4 @@
+EXPLANATION ---
+
+• Simple linear loop from 0 to n-1
+• Time Complexity: O(n)
