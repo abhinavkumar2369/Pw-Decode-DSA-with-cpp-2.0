@@ -1,0 +1,6 @@
+EXPLANATION ---
+
+• Time Complexity: O(n * √n)
+
+• Outer loop: n times
+• Inner loop: √n times
