@@ -1,0 +1,6 @@
+EXPLANATION ---
+
+• Time Complexity: O(n log n)
+
+• Outer loop: n times
+• Inner loop: log n times
