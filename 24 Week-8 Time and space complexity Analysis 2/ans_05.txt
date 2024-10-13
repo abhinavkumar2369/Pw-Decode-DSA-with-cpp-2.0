@@ -1,0 +1,8 @@
+EXPLANATION ---
+
+• Time Complexity: O(n log n)
+
+• Outer loop: log n times
+• Inner loop: Decreasing, but summing to about n each time
+
+• Total operations: About n log n
