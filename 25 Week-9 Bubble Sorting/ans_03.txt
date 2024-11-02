@@ -1,0 +1,4 @@
+ANSWERS ---
+
+When the array is sorted in increasing order:
+In this case, no swaps will be made, and the algorithm will terminate after the first pass through the array, giving it a best-case time complexity of O(n).
