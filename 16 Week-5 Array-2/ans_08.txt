@@ -1,0 +1,7 @@
+ANSWER ---
+
+Here, in statement --->
+     double getAverage(int arr[], int size);
+     The function is accepting array as an argument.
+
+But, The element of Array is being passed in statement ---> avg=getAverage(balance[0],5);
