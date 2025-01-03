@@ -10,7 +10,7 @@
     Output : "a"
     ```
 
-3. Input a string of length n and count all the consonants in the given string.
+2. Input a string of length n and count all the consonants in the given string.
 
     ```sh
     Input : "pwians"
@@ -20,7 +20,7 @@
     Output : 3
     ```
 
-5. Check whether the given string is palindrome or not.
+3. Check whether the given string is palindrome or not.
 
     ```sh
     Input : "abcde"
@@ -30,7 +30,7 @@
     Output : Yes
     ```
 
-7. Input a string of even length and reverse the second half of the string.
+4. Input a string of even length and reverse the second half of the string.
 
     ```sh
     Input : str = "abcdefgh"
@@ -40,7 +40,7 @@
     Output : pwisna
     ```
 
-9. Input a string of length less than 10 and convert it into integer without using builtin function.
+5. Input a string of length less than 10 and convert it into integer without using builtin function.
 
     ```sh
     Input : "3244"
