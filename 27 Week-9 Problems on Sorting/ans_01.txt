@@ -1,0 +1,1 @@
+It needs O(1) or O(logn) memory to create auxiliary locations
