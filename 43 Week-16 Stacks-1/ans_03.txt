@@ -1,0 +1,3 @@
+ANSWERS --
+
+Prints binary representation of n in reverse order
