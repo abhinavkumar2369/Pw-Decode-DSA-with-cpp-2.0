@@ -1,0 +1,4 @@
+ANSWER --
+
+Stack is the FIFO data structure
+Adding an element to a filled stack leads to underflow condition.
