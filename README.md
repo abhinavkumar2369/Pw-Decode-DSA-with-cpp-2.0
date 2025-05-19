@@ -7,7 +7,7 @@
      <img src="https://img.shields.io/badge/Built%20by-Abhinav%20Kumar-0059b3" alt="Built by Abhinav Kumar" />
      <img src="https://img.shields.io/static/v1.svg?label=Maintained&message=Yes&color=red" alt="Maintained" />
      <br/>
-     <img src="https://img.shields.io/github/license/abhinavkumar2369/Pw-Decode-DSA-with-cpp-2.0&color=7F55B1" alt="License" />
+     <img src="https://img.shields.io/github/license/abhinavkumar2369/Pw-Decode-DSA-with-cpp-2.0" alt="License" />
 </p>
 
 <p align="center">
